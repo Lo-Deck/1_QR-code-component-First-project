@@ -21,6 +21,7 @@ Frontend Mentor QR code mobile.png
 ### Links
 
 - Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/Lo-Deck/QR-code-component-First-project))
+- visit website  https://lo-deck.github.io/QR-code-component-First-project/
 
 
 ## My process
