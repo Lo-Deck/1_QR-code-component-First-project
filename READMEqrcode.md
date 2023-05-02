@@ -42,6 +42,6 @@ Frontend Mentor QR code mobile.png
 ## Author
 
 
-- Frontend Mentor - [@Lo-Deck](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Lo-Deck](https://www.frontendmentor.io/profile/Lo-Deck)
 
 
