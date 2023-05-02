@@ -20,7 +20,7 @@ Frontend Mentor QR code mobile.png
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/Lo-Deck/QR-code-component-First-project))
 
 
 ## My process
@@ -36,11 +36,11 @@ Frontend Mentor QR code mobile.png
 
 ### Useful resources
 
-- [resource 1](https://developer.mozilla.org/fr/docs/Learn/Getting_started_with_the_web/CSS_basics) - Help me to use the css mark
+- [resource 1]developer.mozilla(https://developer.mozilla.org/fr/docs/Learn/Getting_started_with_the_web/CSS_basics) - Help me to use the css mark
 
 ## Author
 
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Lo-Deck](https://www.frontendmentor.io/profile/yourusername)
 
 
